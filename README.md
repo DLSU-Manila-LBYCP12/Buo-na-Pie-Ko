@@ -10,6 +10,9 @@ We decided to make a food parlor that will let customers create their own FOOD. 
 - Order your pizza online
 
 ##Photos of Expected Output
+![Screenshot](Picha.jpg)
+![Screenshot](Choices.jpg)
+![Screenshot](Queue.jpg)
 
 ##General Significance
 The project will make manual creation of foods easier since it will make it digital. It will also be convenient for people who stay at home.
